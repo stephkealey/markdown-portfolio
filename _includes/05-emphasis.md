@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Has extensive knowledge of **Microsoft SharePoint**, as well the other products of the *Microsoft Suite*.
